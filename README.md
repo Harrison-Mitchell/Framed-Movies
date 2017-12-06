@@ -1,10 +1,10 @@
 # Framed Movies
-Get the average color of every frame in a video and create a lovely color timeline.
+Get the average colour of every frame in a video and create a lovely colour timeline.
 
 ### Dependencies
 * Python >= 3.5
-* PIL (pip install pillow)
-* OpenCV2 (pip install opencv-python)
+* PIL (`pip install pillow`)
+* OpenCV2 (`pip install opencv-python`)
 
 ### Usage
 Put your desired video in the directory, run `createImage.py`, drag your file into the command window, then pick your scaling and frame skip settings or leave blank for default.
