@@ -28,8 +28,6 @@ everyCount = 0
 start = timer()
 
 for i in range(frames * every):
-	
-
 	# can't range every x frames as vidcap.read() only gets the next frame
 	# so every frame needs to be read regardless of whether we're skipping them
 	everyCount += 1
