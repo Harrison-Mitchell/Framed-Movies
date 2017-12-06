@@ -15,6 +15,6 @@ Your image will then be processed and placed in the same directory.
 This is because credits with a black background with white text, when averaged, create a very dark grey, which creates this block.
 
 ### Examples
-Bee Movie![Bee Movie](https://github.com/Harrison-Mitchell/Framed-Movies/blob/master/Bee%20Movie.png "Bee Movie")
-Nemo![Nemo](https://github.com/Harrison-Mitchell/Framed-Movies/blob/master/Nemo.png "Nemo")
-Shrek![Shrek](https://github.com/Harrison-Mitchell/Framed-Movies/blob/master/Shrek.png "Shrek")
+Bee Movie![Bee Movie](https://github.com/Harrison-Mitchell/Framed-Movies/blob/master/examples/Bee%20Movie.png "Bee Movie")
+Nemo![Nemo](https://github.com/Harrison-Mitchell/Framed-Movies/blob/master/examples/Nemo.png "Nemo")
+Shrek![Shrek](https://github.com/Harrison-Mitchell/Framed-Movies/blob/master/examples/Shrek.png "Shrek")
