@@ -5,10 +5,11 @@ Get the average colour of every frame in a video and create a lovely colour time
 * Python >= 3.5
 * PIL (`pip install pillow`)
 * OpenCV2 (`pip install opencv-python`)
+* Numpy (`pip install numpy`)
 
 ### Usage
-Put your desired video in the directory, run `createImage.py`, drag your file into the command window, then pick your scaling and frame skip settings or leave blank for default.
-Your image will then be processed and placed in the same directory.
+For a single video: put the video in the directory, run `createImage.py`, follow the prompts and enter your resizing and frame skip settings to configure between speed and accuracy. For a directory of video, simply enter the directory when prompted
+Your image(s) will then be processed and placed in the same directory as your source.
 
 ### Known issues
 * Block of black at the end of the image
